@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Analytics
+ 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=PhilomenaMusili&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=PhilomenaMusili&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=PhilomenaMusili&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilomenaMusili&layout=compact&langs_count=7&theme=dracula"/>
+
+### Connect with me
+<a href="https://www.linkedin.com/in/philomena-musili-9589ab236/" target="_blank" rel="noopener noreferrer" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Philomena Musili" /></a>
+
+  <br>
